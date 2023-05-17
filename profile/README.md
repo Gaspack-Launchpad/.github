@@ -1,16 +1,3 @@
-## Hi Gasmates Contributor's 👋
-Welcome to Gaspack Playground.
+## Welcome to Gaspack NFT Launchpad 👋
 
-To create a new repository, we've several rules to naming a project name (naming convention), here's example to create new project:
-
-**Gaspack Project Naming Convention**
-  - *-**docs** : contain documentation(.md) of project such as Figma, Important URL, etc.
-    - example: *project-docs*
-   
-  - *-**frontend** : contain frontend code.
-    - example: *project-frontend* or *project-dashboard-frontend*
-   
-  - *-**backend** : contain backend/API code.
-    - example: *project-backend*
-
-💻 Happy Coding!
+We are an NFT launchpad that empowers creators, artists, and brands from building their IP into NFT projects, from development phase to the launching, scaling, and maintaining them as sustainable businesses.
